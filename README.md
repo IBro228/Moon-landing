@@ -23,15 +23,24 @@ The computer graphics are implemented in Unity, and the logic is written in C # 
 
 The program is, you can say, a game,
 implemented in Unity.
+
 ![image](https://user-images.githubusercontent.com/73960118/148759524-9a659017-b7c5-4fa3-a10b-4dbff1d99b72.png)
+
 Game development in Unity.
+
 ![image](https://user-images.githubusercontent.com/73960118/148759623-c6734db6-9fbf-4575-be08-153e9d71b971.png)
+
 Data entry menu.
+
 ![image](https://user-images.githubusercontent.com/73960118/148759714-0b76c144-2c28-42a5-ad81-e59bb7ccd86d.png)
+
 Current data status.
+
 ![image](https://user-images.githubusercontent.com/73960118/148759850-3d820fcf-95a1-48a4-b764-f8754c5480cf.png)
+
 START button - starts the game
 EXIT button - exits the game to the desktop
+
 When you press the "START" button, the rocket appears on
 distance specified in the form in the "STARTING HEIGHT" field
 Landing control is carried out using keyboard keys
@@ -39,5 +48,7 @@ Landing control is carried out using keyboard keys
 "Down" - decreases. In this way, the speed of the rocket is regulated.
 If you go over with the release of fuel, then the rocket can fly into space,
 otherwise it could crash on the moon.
+
 ![image](https://user-images.githubusercontent.com/73960118/148759917-66656b3b-e6a7-4558-a936-0eb749cf0ea1.png)
+
 Unsuccessful landing on the lunar surface.
