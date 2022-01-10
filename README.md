@@ -38,8 +38,8 @@ Current data status.
 
 ![image](https://user-images.githubusercontent.com/73960118/148759850-3d820fcf-95a1-48a4-b764-f8754c5480cf.png)
 
-START button - starts the game.
-EXIT button - exits the game to the desktop.
+START - starts the game.
+EXIT - exits the game to the desktop.
 
 When you press the "START" button, the rocket appears on
 distance specified in the form in the "STARTING HEIGHT" field
